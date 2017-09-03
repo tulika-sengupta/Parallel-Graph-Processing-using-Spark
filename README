@@ -1,0 +1,9 @@
+GROUP MEMBERS:
+
+RIMI DAS: rimidas@buffalo.edu/ 50206511
+
+TULIKA SENGUPTA: tulikase@buffalo.edu/ 50208677
+
+1) The path of the input files and the lemmatizer file is hard coded in the program. 
+2) We have run the 2-gram and 3-grams programs on multiple files and noted down the time taken for each.
+3) The output of all the files are generated.
